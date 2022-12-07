@@ -20,8 +20,8 @@
 
 ![Profile Dilihat](https://komarev.com/ghpvc/?username=N0obCodingersli&color=blue&style=flat-square&label=Profile+Dilihat)
 ### Stats:
-<p align="center"><a href="https://github.com/N0obCodingers"><img src="https://github-readme-stats.vercel.app/api?username=N0obCgers&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/N0obCodingers"><img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamodine=N0obCgers&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github-readme-stats.vercel.app/api?username=N0obCodingers&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/N0obCodingers"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0obCodingers&theme=radical&layout=compact"></a></p> 
 
 ## Repo Stats
 
